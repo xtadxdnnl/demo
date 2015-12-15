@@ -8,4 +8,8 @@ public class Person{
 	in China;
 	这该 怎么做，Git我是真心服了你了
 	百味卧龙在
+	public void add(){
+	
+	System.out.println("压力好大哦");
+	}
 }
